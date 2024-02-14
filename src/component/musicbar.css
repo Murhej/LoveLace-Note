@@ -1,0 +1,28 @@
+.MusicBar {
+    background-color: rgba(189, 130, 189, 0.5); 
+    width: auto;
+    height: auto;
+    border-radius: 30px;
+    display: flex; 
+    text-align: center;
+    align-items: center;
+    justify-content:center;
+   
+    
+
+}
+
+.Para {
+    background-color: transparent;
+    width: 90%;
+
+    background-size: contain;
+}
+.Para p{
+    background-color: transparent;
+}
+
+.Para h2{
+    background-color: transparent;
+}
+
